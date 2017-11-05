@@ -1,0 +1,4 @@
+<map id="Caelum::SphereSun" name="Caelum::SphereSun">
+<area shape="rect" id="node2" href="$classCaelum_1_1BaseSkyLight.html" title="Base class for sky lights (sun and moon). " alt="" coords="31,80,187,107"/>
+<area shape="rect" id="node3" href="$classCaelum_1_1CameraBoundElement.html" title="A camera&#45;bound element. " alt="" coords="5,5,212,32"/>
+</map>

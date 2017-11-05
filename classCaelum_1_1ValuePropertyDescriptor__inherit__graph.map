@@ -1,0 +1,5 @@
+<map id="Caelum::ValuePropertyDescriptor" name="Caelum::ValuePropertyDescriptor">
+<area shape="rect" id="node2" href="$classCaelum_1_1TypedValuePropertyDescriptor.html" title="Variant of ValuePropertyDescriptor which allows faster typed get/set methods. " alt="" coords="271,5,464,47"/>
+<area shape="rect" id="node3" href="$classCaelum_1_1TypedValuePropertyDescriptor.html" title="Caelum::TypedValueProperty\lDescriptor\&lt; ParamT \&gt;" alt="" coords="271,71,464,112"/>
+<area shape="rect" id="node4" href="$classCaelum_1_1AccesorPropertyDescriptor.html" title="ValuePropertyDescriptor implementation based on function pointers to get/set methods. " alt="" coords="512,63,744,119"/>
+</map>
